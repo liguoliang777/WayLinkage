@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RestfulApi/RestfulApi.iml" filepath="$PROJECT_DIR$/RestfulApi/RestfulApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WayLinkage.iml" filepath="$PROJECT_DIR$/WayLinkage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WayLinkageApp/WayLinkageApp.iml" filepath="$PROJECT_DIR$/WayLinkageApp/WayLinkageApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imglib/imglib.iml" filepath="$PROJECT_DIR$/imglib/imglib.iml" />
+    </modules>
+  </component>
+</project>
