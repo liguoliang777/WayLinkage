@@ -4,7 +4,7 @@ package com.jzt.hol.android.jkda.sdk.bean.manager;
  * Created by Administrator on 2017/3/18 0018.
  */
 
-public class LikeListBody {
+public class Fragment2ListBody {
 
     /**
      * userCode : UC1500625400607
@@ -49,7 +49,7 @@ public class LikeListBody {
 
     @Override
     public String toString() {
-        return "LikeListBody{" +
+        return "Fragment2ListBody{" +
                 "userCode='" + userCode + '\'' +
                 ", appTypeId=" + appTypeId +
                 ", startRecord=" + startRecord +
